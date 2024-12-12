@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a **basic network port scanner** written in Python. It allows users to scan multiple IP addresses for open ports within a specified range. A port scanner is a tool commonly used in network security for identifying open and potentially vulnerable ports on a device. This project serves as a foundational tool for exploring network security, making it a valuable addition for anyone interested in ethical hacking or cybersecurity.
+This project is a **network port scanner** written in Python. It allows users to scan multiple IP addresses for open ports within a specified range. A port scanner is a tool commonly used in network security for identifying open and potentially vulnerable ports on a device. This project serves as a foundational tool for exploring network security, making it a valuable addition for anyone interested in ethical hacking or cybersecurity.
 
 ## Features
 
